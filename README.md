@@ -11,4 +11,4 @@ A simple HTML project showcasing upcoming events with images and descriptions.
 ## 🖥️ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ramsiva97465-dot/Event-management.git
+   git clone https://github.com/ramsiva97465-dot/Event-management.gitDeployment refresh on 31-01-2026
