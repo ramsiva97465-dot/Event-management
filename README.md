@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # My Project
 
@@ -21,3 +22,6 @@ Sivaram RS
 
 ## 🌐 Live Demo
 [View Website](https://ramsiva97465-dot.github.io/My-project/)
+=======
+# Event-management
+>>>>>>> b1afd663cd700c2534821698901e69d140e0c054
