@@ -1,27 +1,14 @@
-<<<<<<< HEAD
+# Event Management Project
 
-# My Project
+A simple HTML project showcasing upcoming events with images and descriptions.
 
-This is a simple perfume-themed landing page built with HTML and CSS.
+## 🚀 Features
+- Event listing with attractive images
+- Clean and minimal design
+- Responsive layout basics
+- Easy to customize for different events
 
-## Features
-- Product images displayed with clean layout
-- Styled using CSS
-- Beginner-friendly structure
-
-## How to Run
-1. Download or clone the repository.
-2. Open `index.html` in your browser.
-
-## Tech Stack
-- HTML
-- CSS
-
-## Author
-Sivaram RS
-
-## 🌐 Live Demo
-[View Website](https://ramsiva97465-dot.github.io/My-project/)
-=======
-# Event-management
->>>>>>> b1afd663cd700c2534821698901e69d140e0c054
+## 🖥️ How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ramsiva97465-dot/Event-management.git
